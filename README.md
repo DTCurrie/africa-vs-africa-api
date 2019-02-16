@@ -6,7 +6,7 @@ A simple Express app that leverages the Spotify Web API to compare plays of "Afr
 
 This app uses the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) to compare Toto's original and Weezer's cover of the song "Africa". Data for each tracks is queried when the page is loaded, then the "popularity" metric provided by Spotify will be compared. The comparison and all the necessary components for it are built using React.
 
-To see the React app used to render the web client, [click here]()
+To see the React app used to render the web client, [click here](https://github.com/DTCurrie/africa-vs-africa-client)
 
 ### Spotify's Popularity Metric
 
